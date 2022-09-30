@@ -1,0 +1,18 @@
+.divMain1{
+    border:2px solid black;
+    width:600px;
+    padding:1% 5% 2% 5%;
+}
+.divMain1 h1{
+    font-size:35px;
+}
+.divMain1 h3{
+    font-size:25px;
+}
+.divMain1{
+    margin:auto;
+}
+.classLista{
+    margin-left:3%;
+    font-size:20px;
+}
